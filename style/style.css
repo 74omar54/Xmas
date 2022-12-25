@@ -1,0 +1,16 @@
+.container {
+   background-color: rgb(187, 0, 0);
+   text-align: center;
+}
+.title{
+    color: rgb(0, 135, 62);
+    font-size: 75px;
+}
+nav{ 
+    flex-wrap: wrap;
+    w;
+  
+}
+.card{ 
+    font-size: 50px;
+}
