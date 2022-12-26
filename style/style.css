@@ -5,12 +5,20 @@
 .title{
     color: rgb(0, 135, 62);
     font-size: 75px;
+    font-family: sans-serif;
 }
 nav{ 
     flex-wrap: wrap;
-    w;
+    
   
 }
 .card{ 
     font-size: 50px;
+    color: rgb(0, 135, 62);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+iframe{
+    border-color: Black;
+    border: 1px, dashed, black
+    autoplay;
 }
